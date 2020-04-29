@@ -46,5 +46,5 @@
 ## Reference
 > * https://www.itread01.com/article/1529980432.html
 > * https://networkx.github.io/documentation/networkx-1.7/tutorial/tutorial.html#drawing-graphs
-* https://python-graph-gallery.com/network-chart/
-* https://github.com/syuan0624/FinTech/blob/master/HW2/TDM%2C%20CO-occurrence%20Matrix%2C%20%E5%85%B1%E7%B7%9A%E5%9C%96%20.ipynb
+> * https://python-graph-gallery.com/network-chart/
+> * https://github.com/syuan0624/FinTech/blob/master/HW2/TDM%2C%20CO-occurrence%20Matrix%2C%20%E5%85%B1%E7%B7%9A%E5%9C%96%20.ipynb
