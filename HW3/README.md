@@ -41,7 +41,10 @@
 
 
 ## 結論
-
+* 在這些字詞中DJIA, Dow指的都是道瓊工業指數
+* 從圖中可以發現Dow Jones Industrial Average和Nasdaq Composite(那斯達克指數)高度相關，常常被一起放在貼文之中
+* 從U.S.延伸出去的線較為密集，其中包含Bitcoin（比特幣）、Cryptocurrency（加密貨幣）、Forex（外匯）...等等
+* 較為特殊的是正向情緒文章存在一些負面的詞，像oil price crash, below zero, disappoint, loss...等等
 
 ## Reference
 > * https://www.itread01.com/article/1529980432.html
