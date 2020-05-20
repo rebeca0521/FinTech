@@ -12,9 +12,6 @@ from telegram import ReplyKeyboardMarkup
 from telegram.ext import Dispatcher, CommandHandler, MessageHandler, Filters
 #from fugle_realtime import intraday
 
-#(03/27更新）試試看
-from telegram import ReplyKeyboardMarkup
-
 
 # In[2]:
 
